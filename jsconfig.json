@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "java.home": "/private/var/folders/ly/gt3rcyq52pd46bvkkttbk8x40000gn/T/AppTranslocation/CED134EC-D109-4B09-8514-6D50BD5927AC/d/Visual Studio Code.app/Contents/Resources/appjdk-17",
+    "jdk.runConfig.vmOptions": "--enable-preview --source 23",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true
+}
